@@ -141,4 +141,4 @@ async def dab(ctx):
     await client.add_roles(user, role)
     print ("You're in buddy, now don't fuck it up")
 
-client.run("MTE0NTkyNDk0MjI0NDg4ODY1Ng.GRR4Du.ZOZzkGvduEAdSHIGCV-CYL9Y3dp42turbX8PJc") #Bot's Token Code Goes Here
+client.run("TOKEN") #Bot's Token Code Goes Here
